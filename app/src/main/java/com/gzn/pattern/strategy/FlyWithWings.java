@@ -6,7 +6,7 @@ import android.util.Log;
  * @author： guozhennan
  * @version：
  * @Package：
- * @Description：
+ * @Description： 飞行行为，会飞就设置这个类的实例
  * @date : 2018/4/11
  */
 

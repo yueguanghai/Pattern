@@ -6,7 +6,7 @@ import android.util.Log;
  * @author： guozhennan
  * @version：
  * @Package：
- * @Description：
+ * @Description： 橡皮鸭子
  * @date : 2018/4/11
  */
 

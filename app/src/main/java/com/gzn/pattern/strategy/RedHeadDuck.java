@@ -6,7 +6,7 @@ import android.util.Log;
  * @author： guozhennan
  * @version：
  * @Package：
- * @Description：
+ * @Description： 红头鸭子，和绿头鸭子一样
  * @date : 2018/4/11
  */
 
